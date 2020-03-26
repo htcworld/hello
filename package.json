@@ -1,0 +1,14 @@
+{
+  "name": "node-rtmp-hls",
+  "version": "1.0.0",
+  "main": "./src",
+  "license": "MIT",
+  "dependencies": {
+    "express": "latest",
+    "http-proxy-middleware": "latest"
+  },
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  }
+}
