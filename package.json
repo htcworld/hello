@@ -1,5 +1,5 @@
 {
-  "name": "node-rtmp-hls",
+  "name": "hello",
   "version": "1.0.0",
   "main": "./src",
   "license": "MIT",
@@ -8,7 +8,6 @@
     "http-proxy-middleware": "latest"
   },
   "scripts": {
-    "start": "node app.js",
-    "dev": "nodemon app.js"
+    "start": "node app.js"
   }
 }
